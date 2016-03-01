@@ -1,0 +1,28 @@
+name: ideas
+favicon: null
+layout_spectrum: 0.6869195045437664
+typography_spectrum: 0.005334937013685703
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.5010678865946829
+  lightness: 0.7403321424499154
+  saturation: 0.11538041452877223
+  rhythmicContrast: 0.39358300995081663
+purpose: []
